@@ -1,2 +1,2 @@
 # personal
-personal site
+A Simple and beautiful portfolio website using HTML and CSS only
